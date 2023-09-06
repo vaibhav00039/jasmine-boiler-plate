@@ -1,0 +1,22 @@
+{
+    "url" : "https://www.securian.com/insights-tools/retirement-calculator.html",
+    "current_age_40" : 40,
+    "retirement_age_68" : 68,
+    "current_income" : 100000,
+    "spouse_income" : 75000,
+    "current_savings" : 500000,
+    "annual_saving_percentage" : 10,
+    "savings_increase_rate" : 1,
+    "social_security_amount" : 4000,
+    "current_age_0" : 0,
+    "current_age_121" : 121,
+    "retirement_age_0" : 0,
+    "retirement_age_121" : 121,
+    "current_age_22" : 22,
+    "retirement_age_12" : 12,
+    "current_income_0" : 0,
+    "spouse_income_0" : 0,
+    "current_savings_0" : 0,
+    "annual_saving_percentage_0" : 0,
+    "savings_increase_rate_0" : 0
+}
